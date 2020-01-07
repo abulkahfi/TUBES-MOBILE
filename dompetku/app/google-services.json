@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774047004445",
+    "firebase_url": "https://kahfi-b330b.firebaseio.com",
+    "project_id": "kahfi-b330b",
+    "storage_bucket": "kahfi-b330b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774047004445:android:89938126f20b45844653f4",
+        "android_client_info": {
+          "package_name": "com.example.kahfi.dompetku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774047004445-qr5rgsfbo2nq6kvk4rdtffpkamdrm19j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kahfi.dompetku",
+            "certificate_hash": "b3befa18f03af178303499df8ff6349cb838af44"
+          }
+        },
+        {
+          "client_id": "774047004445-e9h15qmapm8d8mba0m352o0oieuseu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1IIK4BnYIHMKkQXdTLkhU65z9ahPq4GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774047004445-e9h15qmapm8d8mba0m352o0oieuseu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
